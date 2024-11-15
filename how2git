@@ -1,0 +1,6 @@
+For folder name "xyz"
+    - 'git status' tells us what stage it's in
+        - red is usntaged
+        - green is staged
+    - 'git add xyz.filetype' stages the file
+    - 'git commit -m "Add xyz.filetype"' commits the file
